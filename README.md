@@ -1,1 +1,0 @@
-Git course README
