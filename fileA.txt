@@ -1,2 +1,1 @@
-hi
-added feature 2
+added feature 1
